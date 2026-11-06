@@ -34,7 +34,3 @@ The project demonstrates how technology can support modern agriculture by provid
 - Advanced AI-based crop prediction.
 - Live market prices and crop demand updates.
 - Mobile application for easier accessibility.
-
-📌 Project Type
-
-College Academic Project
